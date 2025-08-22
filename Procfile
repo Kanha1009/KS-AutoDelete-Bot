@@ -1,1 +1,1 @@
-worker: python ks-autodelete-bot.py
+web: python ks-autodelete-bot.py
