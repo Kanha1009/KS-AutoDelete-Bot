@@ -1,1 +1,1 @@
-python ks-autodelete-bot.py
+worker: python ks-autodelete-bot.py
